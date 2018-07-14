@@ -1,8 +1,4 @@
 language: node-js
-install:
-  - npm install -g istanbul
-  - npm install -g jasmine
-  - npm install -g codecov
 
 notifications:
   email:
@@ -10,9 +6,7 @@ notifications:
     on_failure: change
 
 script:
-  - istanbul cover node_modules\jasmine\bin\jasmine.js
-  - codecov
-  # - curl -s https://raw.githubusercontent.com/atom/ci/master/build-package.sh | sh
+  - curl -s https://raw.githubusercontent.com/atom/ci/master/build-package.sh | sh
 
 git:
   depth: 10
