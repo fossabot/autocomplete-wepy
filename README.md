@@ -6,8 +6,13 @@
 [![Downloads](https://img.shields.io/apm/dm/autocomplete-wepy.svg?style=flat-square)](https://atom.io/packages/autocomplete-wepy)
 ![languages top](https://img.shields.io/github/languages/top/summerandwinter/autocomplete-wepy.svg?style=flat-square)
 ![languages count](https://img.shields.io/github/languages/count/summerandwinter/autocomplete-wepy.svg?style=flat-square)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsummerandwinter%2Fautocomplete-wepy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsummerandwinter%2Fautocomplete-wepy?ref=badge_shield)
 # WePY autocomplete package for atom
 
  Depends on [language-tencent-wepy](https://atom.io/packages/language-tencent-wepy),Support autocomplete for tags and functions
 
 ![autocomlete demo](https://raw.githubusercontent.com/summerandwinter/autocomplete-wepy/master/screenshoot.gif)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsummerandwinter%2Fautocomplete-wepy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsummerandwinter%2Fautocomplete-wepy?ref=badge_large)
